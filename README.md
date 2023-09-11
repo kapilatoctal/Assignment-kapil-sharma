@@ -31,5 +31,5 @@
 		
 	For auth used JWT-Auth;
 8. add this two urls into .env file
-    a. API_URL_LANG=https://restcountries.com/v3.1/lang/Hindi
-    b. API_URL_COUNTRY=https://restcountries.com/v3.1/name/india 
+    a. API_LANG_URL=https://restcountries.com/v3.1/lang/Hindi
+    b. API_COUNTRY_URL=https://restcountries.com/v3.1/name/india 
